@@ -1,6 +1,6 @@
 export default function AboutSect() {
   return (
-    <div className="bg-black w-full h-[800px] p-36">
+    <div className="bg-black w-full h-[800px] p-24">
       <div className="text-6xl text-[#8c8792]">
         My Journey
       </div>
