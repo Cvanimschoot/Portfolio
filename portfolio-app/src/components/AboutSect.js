@@ -1,11 +1,11 @@
 export default function AboutSect() {
   return (
-    <div className="bg-black w-full h-[800px] p-24 max-sm:p-2 max-sm:flex max-sm:flex-col max-sm:items-center">
+    <div className="bg-black w-full h-[800px] p-24 max-sm:p-2 max-sm:flex max-sm:flex-col max-sm:items-center max-lg:h-auto">
       <div className="text-6xl text-[#8c8792] max-sm:text-3xl">
         My Journey
       </div>
-      <div className="text-3xl pt-8 flex max-sm:text-xl max-sm:flex-col">
-        <div className="w-1/4 pt-6 pb-6 pr-6 max-sm:w-full max-sm:p-6">
+      <div className="text-3xl pt-8 flex max-xl:text-xl max-sm:flex-col">
+        <div className="w-1/4 pt-6 pb-6 pr-6 max-sm:w-full max-lg:p-6">
           I started my developer journey during my time at Macewan, where I took some basic HTML and CSS classes. Alongside of this I taught myself how to build and maintain PCs, which acted as a secondary source of income alongside my main work.
         </div>
         <div className="w-1/4 p-6 max-sm:w-full">
