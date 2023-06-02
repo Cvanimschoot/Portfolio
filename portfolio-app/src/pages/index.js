@@ -13,9 +13,9 @@ export default function Home() {
       <div className="3xl:flex justify-center">
         <AboutSect />
       </div>
-      <div className="3xl:flex justify-center">
+      {/* <div className="3xl:flex justify-center">
         <ExperienceSect />
-      </div>
+      </div> */}
     </>
   )
 }
