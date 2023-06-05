@@ -14,7 +14,7 @@ module.exports = {
         'right': "url('../../public/BackgroundRight.svg')"
       },
       animation: {
-        scroll: '5s slide infinite linear'
+        scroll: '10s slide infinite linear'
       },
       keyframes: {
         slide: {
